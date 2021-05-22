@@ -1,4 +1,4 @@
-# Building a Stock Visualization Website with Python/Django and Alpha Vantage APIs
+# Construyendo una Web de Visualización de Acciones con Python/Django y Alpha Vantage APIs
 
 Data visualization is becoming a must-have feature for more and more web and mobile applications. This trend is even more salient for financial market data, where data visualization is often used for market analysis, technical charting, and other mission-critical business scenarios. 
 
